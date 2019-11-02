@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041672920687",
+    "firebase_url": "https://arbor-shoes-cd2cb.firebaseio.com",
+    "project_id": "arbor-shoes-cd2cb",
+    "storage_bucket": "arbor-shoes-cd2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041672920687:android:b890ec0762f7206c54b79a",
+        "android_client_info": {
+          "package_name": "com.example.arborshoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041672920687-itnkqn7pb1rttu0j4gthuscod7p8pcip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arborshoes",
+            "certificate_hash": "db7dcdc3d1713e665e12e4f8903a974e64b9f082"
+          }
+        },
+        {
+          "client_id": "1041672920687-lgorlc2v2jt7ci18hjjjddqv6neric47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3moWymdbGneLK2WlT7Cu4BWYJ9a4fazw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041672920687-lgorlc2v2jt7ci18hjjjddqv6neric47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
